@@ -97,33 +97,21 @@
 </div>
 <div alig="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats-seneenkhan.vercel.app/api?username=seneenkhan&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
+        <img height=180em src="https://github-readme-stats.vercel.app/api?username=seneenkhan&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true" alt="my github stats" />
     </a>
 </div>
 </details>
 <details>
- <summary>Recent activity</summary>
-    
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#24980](https://github.com/timburgan/timburgan/issues/24980) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
-2. ❗️ Opened issue [#2036](https://github.com/marcizhu/marcizhu/issues/2036) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-3. ❗️ Opened issue [#1632](https://github.com/rossjrw/rossjrw/issues/1632) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
-4. ❗️ Opened issue [#1494](https://github.com/benjaminsampica/benjaminsampica/issues/1494) in [benjaminsampica/benjaminsampica](https://github.com/benjaminsampica/benjaminsampica)
-5. ❗️ Opened issue [#7052](https://github.com/JonathanGin52/JonathanGin52/issues/7052) in [JonathanGin52/JonathanGin52](https://github.com/JonathanGin52/JonathanGin52)
-<!--END_SECTION:activity-->
-
-</details>
-<details>
 <summary>Top languages</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em src="https://github-readme-stats-carol42.vercel.app/api/top-langs/?username=Carol42&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
+        <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=seneenkhan&theme=midnight-purple&hide_border=true&layout=compact&custom_title=Most+Used+Languages*&langs_count=10" alt="most used languages" />
     </a>
     <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
 </details>
 <details>
 <summary>Streak stats</summary>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img height=180em src="https://carol42-github-streak-stats.herokuapp.com/?user=Carol42&theme=midnight-purple&hide_border=true" alt="streak stats"/>
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=seneenkhan&theme=midnight-purple&hide_border=true"/></a>
     </a>
 </details>
 <details>
