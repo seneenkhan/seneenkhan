@@ -9,7 +9,7 @@
 
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://github.com/seneenkhan">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/seneenkhan?label=seneenkhan&style=social">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/seneenkhan?label=seneenkhan&style=social">
 </a>
 <a href="https://codepen.io/seneen-k">
     <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/Seneen-k&color=000000&style=flat&logo=codepen"  />
