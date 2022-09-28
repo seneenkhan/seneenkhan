@@ -7,14 +7,10 @@
     <a href="https://git.io/typing-svg"><img src="https://carol42-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Caroline;Computer+Engineering+Student;Brazilian+Frontend+Dev;Power+Metal+Lover+%3C3;function+findQuestion(42)" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
 </div>
 
-<table align="right">
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md">:us: English</a></td></tr>
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md">:brazil: Português</a></td></tr>
-</table>
 
 
 <h2>:busts_in_silhouette: How to reach me</h2>
-<a href="https://github.com/Carol42">
+<a href="https://github.com/seneenkhan">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/Carol42?style=social&label=@Carol42">
 </a>
 <a href="https://codepen.io/Carol42">
