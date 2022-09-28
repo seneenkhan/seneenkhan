@@ -3,7 +3,7 @@
 <div id="top"></div>
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=237E3ACE&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+Seneen+Khan;A+computer+science+student;A+passionate+web+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=237E3ACE&center=true&vCenter=true&width=435&lines=Hello%2C+I+am+Seneen+Khan;A+computer+science+student;A+passionate+web+developer)](https://git.io/typing-svg)
 
 
 
