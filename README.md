@@ -1,4 +1,4 @@
-<h1 align="center">Hello there<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Seneen Khan" width="30px"> Seneen Khan here
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Seneen Khan" width="30px"> Seneen Khan here
   
 <div id="top"></div>
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
@@ -9,7 +9,7 @@
 
 <h2>:busts_in_silhouette: How to reach me</h2>
 <a href="https://github.com/seneenkhan">
-    <img alt="Link to my GitHub" src="https://img.shields.io/github/seneenkhan?label=seneenkhan&style=social">
+    <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/seneenkhan?label=seneenkhan&style=social">
 </a>
 <a href="https://codepen.io/seneen-k">
     <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/Seneen-k&color=000000&style=flat&logo=codepen"  />
