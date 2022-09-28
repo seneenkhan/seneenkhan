@@ -21,8 +21,8 @@
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=Seneen Khan&color=0A66C2&style=flat&logo=linkedin" />
 </a>
 </a>
-<a href="mailto:seneen.khan333@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=seneen.khan333@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
+<a href="mailto:khan.seneen333@gmail.com">
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=khan.seneen333@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
 </a>
 </br>
 
