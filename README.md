@@ -18,11 +18,11 @@
     <img alt="Link to my Twitter" src="https://img.shields.io/twitter/url?color=black&label=khanseneen&style=social&url=https%3A%2F%2Ftwitter.com%2Fkhanseneen%2F">
 </a>
 <a href="https://www.linkedin.com/in/seneen-khan-511a06220/">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/Seneen Khan&color=0A66C2&style=flat&logo=linkedin" />
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=Seneen Khan&color=0A66C2&style=flat&logo=linkedin" />
 </a>
 </a>
-<a href="mailto:carol42.helo@gmail.com">
-    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=carol42.helo@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
+<a href="mailto:seneen.khan333@gmail.com">
+    <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=seneen.khan333@gmail.com&color=whitesmoke&style=flat&logo=gmail" />
 </a>
 </br>
 
