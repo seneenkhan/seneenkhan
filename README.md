@@ -11,11 +11,11 @@
 <a href="https://github.com/seneenkhan">
     <img alt="Link to my GitHub" src="https://img.shields.io/github/followers/seneenkhan?label=seneenkhan&style=social">
 </a>
-<a href="https://codepen.io/Carol42">
-    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/Carol42&color=000000&style=flat&logo=codepen"  />
+<a href="https://codepen.io/seneen-k">
+    <img alt="link to my CodePen" src="https://img.shields.io/static/v1?label&message=/Seneen-k&color=000000&style=flat&logo=codepen"  />
 </a>
-<a href="https://twitter.com/carol_heloo/">
-    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/follow/Carol_Heloo?style=social&label=@Carol_Heloo">
+<a href="https://twitter.com/khanseneen/">
+    <img alt="Link to my Twitter" src="https://img.shields.io/twitter/url?color=black&label=khanseneen&style=social&url=https%3A%2F%2Ftwitter.com%2Fkhanseneen%2F">
 </a>
 <a href="https://linkedin.com/in/carol42">
     <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/carol42&color=0A66C2&style=flat&logo=linkedin" />
