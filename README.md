@@ -1,9 +1,9 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="Seneen Khan" width="30px"> Seneen Khan here
   
 <div id="top"></div>
-<div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
+<div align="center" ><img width="100%" alt="welcome to my fork!" src="https://github.com/Carol42/Carol42/blob/main/assets/heade.png"></div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=237E3ACE&center=true&vCenter=true&width=435&lines=A+computer+science+student;A+passionate+web+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=237E3ACE&center=true&vCenter=true&width=435&lines=A+Passionate+english+teacher;winner+entire+$64000+prize;)](https://git.io/typing-svg)
 
 
 
@@ -38,7 +38,7 @@
 <code> <img title="Next.js" alt="next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
 </br></br>
 
-<h2>:hammer_and_wrench: Tools I use</h2>
+<h2>:hammer_and_wrench: Forks I use</h2>
 <code> <img title="npm" alt="npm" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
 <code><img title="Ubuntu" alt="ubuntu" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
 <code><img title="Git" alt="git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
