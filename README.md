@@ -26,7 +26,7 @@ I am currently pursuing my Bachelors in Computer Science Engineering from SRM In
 <br>
 <br>
 # My Github stats
-![Seneen's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsankk05&hide=contribs,prs)
+![Seneen's GitHub stats](https://github-readme-stats.vercel.app/api?username=seneenkhan&hide=contribs,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsankk05&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
